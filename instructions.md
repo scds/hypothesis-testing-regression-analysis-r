@@ -4,7 +4,7 @@ title: Webinar
 nav_order: 3
 ---
 
-After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
+After ensuring that you've followed the [Preparatory steps](preparation), open R and follow along with the workshop recording and files.
 
 ## Workshop recording
 
@@ -22,6 +22,6 @@ View the original [here](https://echo360.ca/media/79e2ba7b-531d-4e4f-b788-cbb765
 <br>
 
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/hypothesis-testing-regression-analysis-r/raw/main/assets/docs/Workshop 3.R?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/hypothesis-testing-regression-analysis-r/raw/main/assets/docs/Workshop3.R?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download the R code](https://github.com/scds/hypothesis-testing-regression-analysis-r/raw/main/assets/docs/Workshop 3.R)
+[Download the R code](https://github.com/scds/hypothesis-testing-regression-analysis-r/raw/main/assets/docs/Workshop3.R)
