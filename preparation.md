@@ -14,7 +14,7 @@ You will have an opportunity to download the data during the workshop; however, 
 
 ## Get the code
 
-You will have an opportunity to download the code during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/hypothesis-testing-regression-analysis-r/raw/main/assets/doc/Workshop3.R)
+You will have an opportunity to download the code during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/hypothesis-testing-regression-analysis-r/raw/main/assets/doc/Workshop3.R).
 
 ## Get the software
 This hands-on workshop uses [**R**](https://www.r-project.org/), a software application for data analysis. We ask that you download R in advance of the workshop to be able to participate in it to the fullest extent.
