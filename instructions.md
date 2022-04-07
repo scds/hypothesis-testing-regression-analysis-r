@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Getting Started
+title: Webinar
 nav_order: 3
 ---
-
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-<!--
 
 After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
 
