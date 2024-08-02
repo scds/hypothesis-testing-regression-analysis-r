@@ -9,4 +9,6 @@ Contributions by the following individuals:
 - Content edited for online use by Veronica Litt and Amanda Montague
 - Online pages created by Veronica Litt
   
+**The content can now be found here:** <https://learn.scds.ca/dash21-22/hypothesis-testing-r>
+
 All content is made available under a GNU General Public License v3.0.
